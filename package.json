@@ -1,0 +1,28 @@
+{
+  "name": "eleventy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "watch": {
+    "eleventyJS": {
+      "patterns": [
+        "./*.11ty.js",
+        "./*.css"
+      ],
+      "extensions": "js,css"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eleventyJS": "eleventy",
+    "eleventy-watch": "npm-watch eleventyJS",
+    "server": "echo \"Run local server e.g. live-server\" && exit 0",
+    "serve": "cd _site && live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.3.0",
+    "npm-watch": "^0.6.0"
+  }
+}
