@@ -1,5 +1,5 @@
 {
-  "name": "eleventy",
+  "name": "Hypatia-frontend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,6 +22,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eleventy": "^0.2.0",
     "node-fetch": "^2.3.0",
     "npm-watch": "^0.6.0"
   }

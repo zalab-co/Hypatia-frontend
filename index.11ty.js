@@ -1,5 +1,5 @@
 const { apiCall } = require('./helpers')
-const { airtable_key } = require("./creds")
+const airtable_key = process.env.AIRTABLE_KEY
 
 const content_otd = async () => {
   // test // const response = await apiCall("https://jsonplaceholder.typicode.com/todos/1", "GET") 
