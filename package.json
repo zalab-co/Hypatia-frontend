@@ -6,7 +6,7 @@
   "watch": {
     "eleventyJS": {
       "patterns": [
-        "./*.11ty.js",
+        "./*.js",
         "./*.css"
       ],
       "extensions": "js,css"
