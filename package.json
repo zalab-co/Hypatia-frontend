@@ -21,7 +21,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
+  "devDependencies": {
     "eleventy": "^0.2.0",
     "node-fetch": "^2.3.0",
     "npm-watch": "^0.6.0"
