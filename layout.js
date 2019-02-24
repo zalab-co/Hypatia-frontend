@@ -69,6 +69,8 @@ module.exports = async function (lang, index=false) {
             </div>
           </div>
 
+          <p>${c.subtitles_info}</p>
+
           <h2 style="font-size: 15px;">
               <div>
                 <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=NWtoZTFmYmtsaHFyOTFtMWk1N2tsNWY4YjJfMjAxOTAyMjFUMTcwMDAwWiBhYmR0M2lxam5ndGdhazlzZThxZGx1bGY1a0Bn&tmsrc=abdt3iqjngtgak9se8qdlulf5k%40group.calendar.google.com&scp=ALL" target="_blank">

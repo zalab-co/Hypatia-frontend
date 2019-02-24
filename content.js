@@ -9,7 +9,8 @@ module.exports = {
     past_videos: "Past videos",
     past_videos_url: "https://airtable.com/shrVWrE12Oy5H9uAI/tbl6CyxfYjLwfcHyN/viwCzD7j3jUf21Or9",
     oss: "It's open source on GitHub",
-    madeBy: "Made by ZALAB"
+    madeBy: "Made by ZALAB",
+    subtitles_info: "Videos have subtitles that you can enable in video settings in case you need it."
   },
   "ru": {
     airtable_base_id: "apprmUf0RylrdsQx7",
@@ -21,6 +22,7 @@ module.exports = {
     past_videos: "Предыдущие видео дня",
     past_videos_url: "https://airtable.com/shrtBkciW51ZgE5Yh/tbl5pYLMltJ3Q9ZcO/viw4todTzCQkaGliP",
     oss: "Этот сайт open-source на GitHub",
-    madeBy: "сделано ZALAB"
+    madeBy: "сделано ZALAB",
+    subtitles_info: "Видео возможно на английском. Имеются субтитры которые можно включить в настройках видео."
   }
 }
