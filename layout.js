@@ -83,6 +83,11 @@ module.exports = async function (lang, index=false) {
              ${c.save_to_g_calendar_txt}
           </h2>
 
+          <h2 style="font-size: 15px;">${c.encouragement}</h2>
+
+          <div>. . .</div>
+          <br>
+
           <div class="links">
 
             <div>
