@@ -84,11 +84,11 @@ module.exports = async function (lang, index=false) {
           <div class="links">
 
             <div>
-              <a href="https://docs.google.com/spreadsheets/d/1Afa2sqOfw-pBpZLoQ357t5y4_lQQ6Fz9IFUSmZRnlMU/edit" target="_blank"> ${c.yt_list} </a>
+              <a href=${c.yt_list_url} target="_blank"> ${c.yt_list} </a>
             </div>
   
             <div>
-              <a href="https://airtable.com/shrVWrE12Oy5H9uAI/tbl6CyxfYjLwfcHyN/viwCzD7j3jUf21Or9" target="_blank"> ${c.past_videos} </a>
+              <a href=${c.past_videos_url} target="_blank"> ${c.past_videos} </a>
             </div>
   
             <div>
