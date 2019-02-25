@@ -2,6 +2,7 @@ module.exports = {
   "en": {
     airtable_base_id: "appDhlDCzW5NfMuve",
     title: "Hypatia - She'll teach you things. Get an educational & entertaining YouTube video daily.",
+    video_update_time: "Video updates 00:01 UTC",
     subtitles_info: "Videos have subtitles that you can enable in video settings in case you need it.",
     save_to_g_calendar_img: "imgs/save-to-g-calendar.PNG",
     save_to_g_calendar_txt: "a reminder notification to your Google Calendar.",
@@ -16,6 +17,7 @@ module.exports = {
   "ru": {
     airtable_base_id: "apprmUf0RylrdsQx7",
     title: "Гипатия - Она тебя научит. Познавательно-обучающие и интересные YouTube видео ежедневно.",
+    video_update_time: "Видео обновляются в 00:01 UTC",
     subtitles_info: "Видео возможно на английском. Имеются субтитры которые можно включить в настройках видео.",
     save_to_g_calendar_img: "imgs/save-to-g-calendar-ru.PNG",
     save_to_g_calendar_txt: "напоминание в Google Календарь.",

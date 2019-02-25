@@ -59,6 +59,8 @@ module.exports = async function (lang, index=false) {
 
           <h1 style="font-size: 20px;">${c.title}</h1>
 
+          <p>${c.video_update_time}</p>
+
           <div class="outer-embed-wrapper">
             <div class="embed-container">
               <iframe src="${await content_otd()}" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
