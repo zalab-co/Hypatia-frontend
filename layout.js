@@ -59,6 +59,8 @@ module.exports = async function (lang, index=false) {
 
           <h1 style="font-size: 20px;">${c.title}</h1>
 
+          <p>${c.automatic}</p>
+
           <p>${c.video_update_time}</p>
 
           <div class="outer-embed-wrapper">
